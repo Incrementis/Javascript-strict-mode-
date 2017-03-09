@@ -10,4 +10,5 @@ The mode can be enabled by adding the following string into the js code:
 
 To test the strict mode just download the files and execute index.html. Note that all files should be placed in the same folder so that the function of the code is guaranteed.
 
-For the topic "concatenating strict files" use this Link: STILL IN WORK!
+For the topic "concatenating strict files" use this Link: 
+https://github.com/Incrementis/Javascript-concatenating-strict-files-/wiki
